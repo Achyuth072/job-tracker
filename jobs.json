@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "companyName": "Whitecarrot",
+    "role": "Full Stack Developer – AI Native Product Builder",
+    "status": "Interviewing",
+    "dateApplied": "2025-11-20T10:00:00.000Z",
+    "aiAnalysis": "Strong match for builder mindset."
+  },
+  {
+    "id": "2",
+    "companyName": "ProQube",
+    "role": "Full Stack Engineer",
+    "status": "Applied",
+    "dateApplied": "2025-11-21T10:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "companyName": "Better Software",
+    "role": "Senior Engineer",
+    "status": "Applied",
+    "dateApplied": "2025-11-21T10:00:00.000Z"
+  },
+  {
+    "id": "1763912830203",
+    "companyName": "Shoshin Tech",
+    "role": "Full Stack Developer- Python+ReactJS/NextJS+MongoDB (2+ years experience)",
+    "status": "Applied",
+    "dateApplied": "2025-11-23T15:47:10.203Z"
+  }
+]

@@ -7,25 +7,19 @@
     "dateApplied": "2025-11-20T10:00:00.000Z",
     "aiAnalysis": "Strong match for builder mindset."
   },
-  {
+{
     "id": "2",
-    "companyName": "ProQube",
-    "role": "Full Stack Engineer",
+    "companyName": "OpenAI",
+    "role": "Product Engineer",
     "status": "Applied",
-    "dateApplied": "2025-11-21T10:00:00.000Z"
+    "dateApplied": "2025-11-21T14:30:00.000Z",
+    "aiAnalysis": "Pending analysis..."
   },
   {
     "id": "3",
-    "companyName": "Better Software",
-    "role": "Senior Engineer",
+    "companyName": "Anthropic",
+    "role": "Frontend Engineer",
     "status": "Applied",
-    "dateApplied": "2025-11-21T10:00:00.000Z"
-  },
-  {
-    "id": "1763912830203",
-    "companyName": "Shoshin Tech",
-    "role": "Full Stack Developer- Python+ReactJS/NextJS+MongoDB (2+ years experience)",
-    "status": "Applied",
-    "dateApplied": "2025-11-23T15:47:10.203Z"
+    "dateApplied": "2025-11-22T10:15:00.000Z"
   }
 ]
